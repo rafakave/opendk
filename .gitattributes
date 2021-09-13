@@ -1,0 +1,12 @@
+# Ensure shell script uses LF.
+Dockerfile		eol=lf
+.yml			eol=lf
+*.sh			eol=lf
+.gitattributes	eol=lf
+.gitignore		eol=lf
+*.md			eol=lf
+.txt			eol=lf
+.log			eol=lf
+.out			eol=lf
+.conf			eol=lf
+.sql			eol=lf
